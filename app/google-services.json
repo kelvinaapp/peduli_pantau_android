@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1024770421414",
+    "firebase_url": "https://pantau-peduli-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pantau-peduli",
+    "storage_bucket": "pantau-peduli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024770421414:android:93027617ef6d5aafe97a67",
+        "android_client_info": {
+          "package_name": "com.example.pedulipantau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024770421414-piq10uoc4dj4b6es2rn7h094t4rsq1c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGSENzWSVi0mbydInjSi1NLVuso0RLeY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024770421414-piq10uoc4dj4b6es2rn7h094t4rsq1c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024770421414:android:e98959622231e1bbe97a67",
+        "android_client_info": {
+          "package_name": "com.pantau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024770421414-lrb77hq229g7ll1vs4c64uacj9b96s0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pantau",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1024770421414-piq10uoc4dj4b6es2rn7h094t4rsq1c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGSENzWSVi0mbydInjSi1NLVuso0RLeY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024770421414-piq10uoc4dj4b6es2rn7h094t4rsq1c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
